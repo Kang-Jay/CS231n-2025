@@ -99,7 +99,7 @@ def hog_feature(im):
     orientations = 9  # number of gradient bins
     cx, cy = (8, 8)  # pixels per cell
 
-    gx = np.zeros(image.shape)
+    gx = np.zeros(image.shape)      
     gy = np.zeros(image.shape)
     gx[:, :-1] = np.diff(image, n=1, axis=1)  # compute gradient on x-direction
     gy[:-1, :] = np.diff(image, n=1, axis=0)  # compute gradient on y-direction
