@@ -1,4 +1,4 @@
-# CS231n(Spring 2025) Solutions & Notes
+# CS231n(Spring 2025) Solutions & Study Notes
 
 This repository collects study materials for Stanford CS231n — Deep Learning for Computer Vision (Spring 2025). It includes my personally compiled and implemented assignment reference code, chapter-by-chapter study notes, and model diagrams visualized in the notes. Note: these materials are my personal compilations and implementations, not official solutions; they are provided for learning and reference only. You are welcome to discuss issues and improvements via GitHub issues or the CSDN comments section; for private contact, you may email [kang-jay@qq.com](mailto:kang-jay@qq.com).
 
